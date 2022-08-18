@@ -1,0 +1,1 @@
+web: java -jar target/easyfs-1.0.jar
